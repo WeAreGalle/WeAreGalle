@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Programing
 - 📫 How to reach me ...
+- m.me/WeAreGalle
 
 <!---
 WeAreGalle/WeAreGalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
